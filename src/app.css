@@ -1,0 +1,21 @@
+@import './reset.css';
+
+#app {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background-image: url('./assets/bg-space.png');
+  background-size: cover;
+  position: relative;
+}
+
+#home {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+#header {
+  width: 100%;
+  height: 150px;
+}
